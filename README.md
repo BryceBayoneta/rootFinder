@@ -5,7 +5,7 @@ Features
 - Allows custom domain and tolerance values
 - Finds multiple roots across domain
 
-How to Use
+How to Use  
 Call function with:
 ```matlab
 roots = rootFinder(coefficients, powers, minDomain, maxDomain, tolerance);
